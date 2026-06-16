@@ -1,0 +1,290 @@
+{
+  "abandon": {
+    "word": "abandon",
+    "pron": "uh BAN duhn",
+    "defEn": "To give up completely or leave behind without intending to return",
+    "defKo": "완전히 포기하거나 버리고 떠나다",
+    "exEn": "The crew had to abandon the sinking ship before it went under.",
+    "exKo": "선원들은 가라앉는 배가 침몰하기 전에 그 배를 버려야 했다.",
+    "deck": "md-33000"
+  },
+  "abase": {
+    "word": "abase",
+    "pron": "uh BAYS",
+    "defEn": "To lower someone or something in rank, dignity, or self-respect",
+    "defKo": "지위, 품위, 자존심을 떨어뜨리다",
+    "exEn": "He refused to abase himself by begging for the manager's forgiveness.",
+    "exKo": "그는 매니저의 용서를 빌며 자신을 비하하기를 거부했다.",
+    "deck": "md-33000"
+  },
+  "abate": {
+    "word": "abate",
+    "pron": "uh BAYT",
+    "defEn": "To become less intense or to reduce in amount or degree",
+    "defKo": "강도가 약해지거나 양과 정도가 줄어들다",
+    "exEn": "The storm finally began to abate after midnight.",
+    "exKo": "폭풍은 자정이 지나서야 마침내 잦아들기 시작했다.",
+    "deck": "md-33000"
+  },
+  "abbreviate": {
+    "word": "abbreviate",
+    "pron": "uh BREE vee ayt",
+    "defEn": "To shorten a word, phrase, or text",
+    "defKo": "단어나 어구, 글을 짧게 줄이다",
+    "exEn": "People often abbreviate \"information\" to \"info\" in casual writing.",
+    "exKo": "사람들은 비격식적인 글에서 종종 \"information\"을 \"info\"로 줄여 쓴다.",
+    "deck": "md-33000"
+  },
+  "abet": {
+    "word": "abet",
+    "pron": "uh BET",
+    "defEn": "To encourage or assist someone, especially in doing something wrong",
+    "defKo": "특히 나쁜 일을 하도록 부추기거나 돕다",
+    "exEn": "She was accused of helping to abet the robbery by driving the getaway car.",
+    "exKo": "그녀는 도주 차량을 운전함으로써 강도를 방조한 혐의로 기소되었다.",
+    "deck": "md-33000"
+  },
+  "abridge": {
+    "word": "abridge",
+    "pron": "uh BRIJ",
+    "defEn": "To shorten a piece of writing while keeping its essential content",
+    "defKo": "핵심 내용을 유지하면서 글을 줄이다",
+    "exEn": "The editor decided to abridge the long novel for younger readers.",
+    "exKo": "편집자는 어린 독자들을 위해 그 긴 소설을 축약하기로 했다.",
+    "deck": "md-33000"
+  },
+  "accede": {
+    "word": "accede",
+    "pron": "ak SEED",
+    "defEn": "To agree to a request or demand, or to take up an office or position",
+    "defKo": "요청이나 요구에 동의하다, 또는 직위에 취임하다",
+    "exEn": "The board finally agreed to accede to the employees' demands for higher pay.",
+    "exKo": "이사회는 마침내 직원들의 임금 인상 요구에 응하기로 했다.",
+    "deck": "md-33000"
+  },
+  "accelerate": {
+    "word": "accelerate",
+    "pron": "ak SEL uh rayt",
+    "defEn": "To increase in speed or to make something happen faster",
+    "defKo": "속도를 높이거나 어떤 일을 더 빨리 일어나게 하다",
+    "exEn": "The new policy is expected to accelerate economic growth.",
+    "exKo": "새 정책은 경제 성장을 가속할 것으로 예상된다.",
+    "deck": "md-33000"
+  },
+  "accessory": {
+    "word": "accessory",
+    "pron": "ak SES uh ree",
+    "defEn": "A supplementary item; a person who helps a criminal; or supplementary in nature",
+    "defKo": "부속품; 종범; 보조적인",
+    "exEn": "She wore a simple dress with a single gold accessory.",
+    "exKo": "그녀는 금색 액세서리 하나만 곁들인 단순한 드레스를 입었다.",
+    "deck": "md-33000"
+  },
+  "acclaim": {
+    "word": "acclaim",
+    "pron": "uh KLAYM",
+    "defEn": "To praise enthusiastically; enthusiastic public praise",
+    "defKo": "열렬히 칭찬하다; 열광적인 갈채",
+    "exEn": "Critics were quick to acclaim the young director's first film.",
+    "exKo": "비평가들은 그 젊은 감독의 첫 영화에 곧바로 환호했다.",
+    "deck": "md-33000"
+  },
+  "acclivity": {
+    "word": "acclivity",
+    "pron": "uh KLIV uh tee",
+    "defEn": "An upward slope or incline",
+    "defKo": "위로 향하는 오르막길",
+    "exEn": "The hikers slowed down as they climbed the steep acclivity.",
+    "exKo": "등산객들은 가파른 오르막길을 오르면서 속도를 늦췄다.",
+    "deck": "md-33000"
+  },
+  "accomplice": {
+    "word": "accomplice",
+    "pron": "uh KOM plis",
+    "defEn": "A person who helps another commit a crime",
+    "defKo": "범죄를 저지르는 것을 돕는 사람",
+    "exEn": "The thief and his accomplice were both arrested at the airport.",
+    "exKo": "도둑과 그의 공범은 둘 다 공항에서 체포되었다.",
+    "deck": "md-33000"
+  },
+  "accost": {
+    "word": "accost",
+    "pron": "uh KAWST",
+    "defEn": "To approach and speak to someone, often boldly or aggressively",
+    "defKo": "종종 대담하거나 공격적으로 다가가 말을 걸다",
+    "exEn": "A stranger tried to accost me on the street to ask for money.",
+    "exKo": "한 낯선 사람이 돈을 달라고 길에서 내게 다가와 말을 걸려 했다.",
+    "deck": "md-33000"
+  },
+  "accretion": {
+    "word": "accretion",
+    "pron": "uh KREE shuhn",
+    "defEn": "Gradual growth or increase by the addition of layers or parts",
+    "defKo": "층이나 부분이 더해지면서 점진적으로 성장하거나 증가함",
+    "exEn": "The reef grew slowly through the accretion of coral over centuries.",
+    "exKo": "그 암초는 수 세기에 걸친 산호의 축적을 통해 천천히 자랐다.",
+    "deck": "md-33000"
+  },
+  "accumulate": {
+    "word": "accumulate",
+    "pron": "uh KYOO myuh layt",
+    "defEn": "To gather or collect a large amount of something over time",
+    "defKo": "시간이 지나면서 많은 양을 모으거나 축적하다",
+    "exEn": "Over the years he managed to accumulate a small fortune.",
+    "exKo": "수년에 걸쳐 그는 작은 재산을 모으는 데 성공했다.",
+    "deck": "md-33000"
+  },
+  "acquiesce": {
+    "word": "acquiesce",
+    "pron": "ak wee ES",
+    "defEn": "To accept or comply with something reluctantly without protest",
+    "defKo": "저항 없이 마지못해 받아들이거나 따르다",
+    "exEn": "Though he disagreed, he chose to acquiesce to the committee's decision.",
+    "exKo": "그는 동의하지 않았지만 위원회의 결정에 묵인하기로 했다.",
+    "deck": "md-33000"
+  },
+  "acquit": {
+    "word": "acquit",
+    "pron": "uh KWIT",
+    "defEn": "To free someone from a charge; also, to conduct or behave oneself",
+    "defKo": "혐의에서 풀어주다, 무죄로 하다; 또한 처신하다",
+    "exEn": "The jury decided to acquit the defendant due to lack of evidence.",
+    "exKo": "배심원단은 증거 부족으로 피고인을 무죄로 판결하기로 했다.",
+    "deck": "md-33000"
+  },
+  "addict": {
+    "word": "addict",
+    "pron": "verb: uh DIKT; noun: AD ikt",
+    "defEn": "To become dependent on or devoted to something; a person with such dependency",
+    "defKo": "어떤 것에 빠지거나 탐닉하다; 중독자",
+    "exEn": "Many people unknowingly addict themselves to the constant rush of social media.",
+    "exKo": "많은 사람들이 자신도 모르게 끊임없는 소셜 미디어의 자극에 중독된다.",
+    "deck": "md-33000"
+  },
+  "adept": {
+    "word": "adept",
+    "pron": "uh DEPT",
+    "defEn": "Highly skilled or proficient at something; an expert",
+    "defKo": "어떤 일에 매우 숙련되거나 능숙한; 전문가",
+    "exEn": "She is remarkably adept at solving complex puzzles.",
+    "exKo": "그녀는 복잡한 퍼즐을 푸는 데 놀랄 만큼 능숙하다.",
+    "deck": "md-33000"
+  },
+  "adhere": {
+    "word": "adhere",
+    "pron": "ad HEER",
+    "defEn": "To stick firmly to a surface; to follow or hold to a rule or belief",
+    "defKo": "표면에 단단히 들러붙다; 규칙이나 신념을 고수하다",
+    "exEn": "All employees must adhere to the company's safety guidelines.",
+    "exKo": "모든 직원은 회사의 안전 지침을 고수해야 한다.",
+    "deck": "md-33000"
+  },
+  "adjacent": {
+    "word": "adjacent",
+    "pron": "uh JAY suhnt",
+    "defEn": "Next to or near something; adjoining",
+    "defKo": "어떤 것에 바로 옆이나 가까이 있는; 인접한",
+    "exEn": "Their house is adjacent to a beautiful public park.",
+    "exKo": "그들의 집은 아름다운 공원에 인접해 있다.",
+    "deck": "md-33000"
+  },
+  "adjourn": {
+    "word": "adjourn",
+    "pron": "uh JURN",
+    "defEn": "To suspend a meeting or session until a later time, or to move to another place",
+    "defKo": "회의나 회기를 나중으로 연기하다, 또는 다른 곳으로 자리를 옮기다",
+    "exEn": "The judge decided to adjourn the trial until the following Monday.",
+    "exKo": "판사는 재판을 다음 주 월요일까지 연기하기로 했다.",
+    "deck": "md-33000"
+  },
+  "adjunct": {
+    "word": "adjunct",
+    "pron": "AJ uhngkt",
+    "defEn": "Something added or attached, usually in a subordinate role; a supplementary element",
+    "defKo": "대개 보조적인 역할로 더해지거나 부착된 것; 부가물",
+    "exEn": "The new software serves as a useful adjunct to the existing system.",
+    "exKo": "새 소프트웨어는 기존 시스템에 유용한 부가물 역할을 한다.",
+    "deck": "md-33000"
+  },
+  "administer": {
+    "word": "administer",
+    "pron": "ad MIN uh stuhr",
+    "defEn": "To manage or oversee; to give out, such as medicine; to provide or contribute",
+    "defKo": "관리하거나 감독하다; 약 따위를 투약하다; 제공하다",
+    "exEn": "The nurse came in to administer the medication every four hours.",
+    "exKo": "간호사가 네 시간마다 약을 투약하러 들어왔다.",
+    "deck": "md-33000"
+  },
+  "admonish": {
+    "word": "admonish",
+    "pron": "ad MON ish",
+    "defEn": "To warn or scold someone gently but seriously",
+    "defKo": "부드럽지만 진지하게 경고하거나 훈계하다",
+    "exEn": "The teacher had to admonish the students for talking during the exam.",
+    "exKo": "교사는 시험 중에 떠드는 학생들을 훈계해야 했다.",
+    "deck": "md-33000"
+  },
+  "adopt": {
+    "word": "adopt",
+    "pron": "uh DOPT",
+    "defEn": "To take up or accept something formally; to take a child legally as one's own",
+    "defKo": "어떤 것을 공식적으로 받아들이거나 채택하다; 아이를 법적으로 양자로 삼다",
+    "exEn": "The company decided to adopt a new strategy to reach younger customers.",
+    "exKo": "그 회사는 젊은 고객층에 다가가기 위해 새로운 전략을 채택하기로 했다.",
+    "deck": "md-33000"
+  },
+  "adore": {
+    "word": "adore",
+    "pron": "uh DOR",
+    "defEn": "To love and respect deeply, or to like something very much",
+    "defKo": "깊이 사랑하고 존경하다, 또는 매우 좋아하다",
+    "exEn": "The children absolutely adore their new puppy.",
+    "exKo": "아이들은 새 강아지를 정말 너무나 좋아한다.",
+    "deck": "md-33000"
+  },
+  "adorn": {
+    "word": "adorn",
+    "pron": "uh DORN",
+    "defEn": "To make something more attractive by decorating it",
+    "defKo": "장식하여 더 매력적으로 만들다, 꾸미다",
+    "exEn": "Bright lanterns adorn the streets during the festival.",
+    "exKo": "축제 기간 동안 밝은 등불이 거리를 장식한다.",
+    "deck": "md-33000"
+  },
+  "adroit": {
+    "word": "adroit",
+    "pron": "uh DROIT",
+    "defEn": "Clever and skillful, especially in handling difficult situations",
+    "defKo": "특히 어려운 상황을 다루는 데 영리하고 능숙한",
+    "exEn": "She gave an adroit answer that satisfied everyone in the room.",
+    "exKo": "그녀는 방 안의 모두를 만족시키는 재치 있는 답을 내놓았다.",
+    "deck": "md-33000"
+  },
+  "adulterate": {
+    "word": "adulterate",
+    "pron": "verb: uh DUL tuh rayt",
+    "defEn": "To make something poorer in quality by adding an inferior substance",
+    "defKo": "질이 낮은 물질을 섞어 품질을 떨어뜨리다",
+    "exEn": "Some dishonest vendors adulterate olive oil with cheaper oils.",
+    "exKo": "일부 부정직한 상인들은 올리브유에 더 싼 기름을 섞는다.",
+    "deck": "md-33000"
+  },
+  "adumbrate": {
+    "word": "adumbrate",
+    "pron": "AD uhm brayt",
+    "defEn": "To outline or indicate something faintly; to foreshadow",
+    "defKo": "어떤 것을 어렴풋이 나타내거나 예시하다",
+    "exEn": "In the opening chapter, the author adumbrates the tragedy to come.",
+    "exKo": "첫 장에서 작가는 다가올 비극을 어렴풋이 나타낸다.",
+    "deck": "md-33000"
+  },
+  "advent": {
+    "word": "advent",
+    "pron": "AD vent",
+    "defEn": "The arrival or beginning of something notable; (capitalized) the coming of Christ",
+    "defKo": "주목할 만한 것의 도래나 시작; 그리스도의 재림",
+    "exEn": "The advent of the smartphone transformed how people communicate.",
+    "exKo": "스마트폰의 도래는 사람들이 소통하는 방식을 변화시켰다.",
+    "deck": "md-33000"
+  }
+}

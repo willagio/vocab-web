@@ -1,0 +1,390 @@
+{
+  "uniqueWords": 56,
+  "totalEntries": 85,
+  "dates": [
+    "2026-06-16",
+    "2026-06-09",
+    "2026-03-24"
+  ],
+  "byDate": {
+    "2026-06-16": {
+      "root": [
+        "acclaim",
+        "acclivity",
+        "accomplice",
+        "accost",
+        "accretion",
+        "accumulate",
+        "acquiesce",
+        "acquit",
+        "addict",
+        "adept",
+        "adhere",
+        "adjacent",
+        "adjourn",
+        "adjunct",
+        "administer",
+        "admonish",
+        "adopt",
+        "adore",
+        "adorn",
+        "adroit",
+        "adulterate",
+        "adumbrate",
+        "advent",
+        "adventitious",
+        "adverse",
+        "advert",
+        "advocate"
+      ]
+    },
+    "2026-03-24": {
+      "gre-power-vocab": [
+        "abandon",
+        "abase",
+        "abate",
+        "abbreviate",
+        "abdicate",
+        "abduct",
+        "aberrant",
+        "abet",
+        "abhor",
+        "abject",
+        "abjure",
+        "abolish",
+        "abominate",
+        "aboriginal",
+        "abortion",
+        "abrasive",
+        "abridge",
+        "abrogate",
+        "abrupt",
+        "abscission",
+        "abscond",
+        "absolve",
+        "abstain",
+        "abstruse",
+        "allay",
+        "avert"
+      ]
+    },
+    "2026-06-09": {
+      "md-33000": [
+        "abandon",
+        "abase",
+        "abate",
+        "abbreviate",
+        "abet",
+        "abridge",
+        "accede",
+        "accelerate",
+        "accessory",
+        "acclaim",
+        "acclivity",
+        "accomplice",
+        "accost",
+        "accretion",
+        "accumulate",
+        "acquiesce",
+        "acquit",
+        "addict",
+        "adept",
+        "adhere",
+        "adjacent",
+        "adjourn",
+        "adjunct",
+        "administer",
+        "admonish",
+        "adopt",
+        "adore",
+        "adorn",
+        "adroit",
+        "adulterate",
+        "adumbrate",
+        "advent"
+      ]
+    }
+  },
+  "words": [
+    {
+      "w": "abandon",
+      "p": "uh BAN duhn",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "abase",
+      "p": "uh BAYS",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "abate",
+      "p": "uh BAYT",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "abbreviate",
+      "p": "uh BREE vee ayt",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "abdicate",
+      "p": "AB di kayt",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abduct",
+      "p": "ab DUHKT",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "aberrant",
+      "p": "uh BEH runt",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abet",
+      "p": "uh BET",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "abhor",
+      "p": "ab HOR",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abject",
+      "p": "AB jekt",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abjure",
+      "p": "ab JOOR",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abolish",
+      "p": "uh BOL ish",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abominate",
+      "p": "uh BOM uh nayt",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "aboriginal",
+      "p": "ab uh RIJ uh nul",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abortion",
+      "p": "uh BOR shun",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abrasive",
+      "p": "uh BRAY siv",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abridge",
+      "p": "uh BRIJ",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "abrogate",
+      "p": "AB ruh gayt",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abrupt",
+      "p": "uh BRUHPT",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abscission",
+      "p": "ab SIZH un",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abscond",
+      "p": "ab SKOND",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "absolve",
+      "p": "ab ZOLV",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abstain",
+      "p": "ab STAYN",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "abstruse",
+      "p": "ab STROOS",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "accede",
+      "p": "ak SEED",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "accelerate",
+      "p": "ak SEL uh rayt",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "accessory",
+      "p": "ak SES uh ree",
+      "d": "2026-06-09"
+    },
+    {
+      "w": "acclaim",
+      "p": "uh KLAYM",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "acclivity",
+      "p": "uh KLIV uh tee",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "accomplice",
+      "p": "uh KOM plis",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "accost",
+      "p": "uh KAWST",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "accretion",
+      "p": "uh KREE shun",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "accumulate",
+      "p": "uh KYOO myuh layt",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "acquiesce",
+      "p": "ak wee ES",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "acquit",
+      "p": "uh KWIT",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "addict",
+      "p": "verb uh DIKT; noun AD ikt",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adept",
+      "p": "uh DEPT",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adhere",
+      "p": "ad HEER",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adjacent",
+      "p": "uh JAY sunt",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adjourn",
+      "p": "uh JURN",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adjunct",
+      "p": "AJ ungkt",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "administer",
+      "p": "ad MIN uh stur",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "admonish",
+      "p": "ad MON ish",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adopt",
+      "p": "uh DOPT",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adore",
+      "p": "uh DOR",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adorn",
+      "p": "uh DORN",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adroit",
+      "p": "uh DROYT",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adulterate",
+      "p": "uh DUL tuh rayt",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adumbrate",
+      "p": "AD um brayt",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "advent",
+      "p": "AD vent",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adventitious",
+      "p": "ad ven TISH us",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "adverse",
+      "p": "ad VURS",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "advert",
+      "p": "ad VURT",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "advocate",
+      "p": "verb AD vuh kayt; noun AD vuh kit",
+      "d": "2026-06-16"
+    },
+    {
+      "w": "allay",
+      "p": "uh LAY",
+      "d": "2026-03-24"
+    },
+    {
+      "w": "avert",
+      "p": "uh VURT",
+      "d": "2026-03-24"
+    }
+  ]
+}

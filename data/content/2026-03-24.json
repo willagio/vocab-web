@@ -1,0 +1,236 @@
+{
+  "abandon": {
+    "word": "abandon",
+    "pron": "uh BAN dun",
+    "defEn": "To leave someone or something behind permanently; to give up completely",
+    "defKo": "버리다; 완전히 포기하다",
+    "exEn": "He refused to abandon his dream despite repeated failures.",
+    "exKo": "그는 반복된 실패에도 꿈을 포기하지 않았다.",
+    "deck": "gre-power-vocab"
+  },
+  "abase": {
+    "word": "abase",
+    "pron": "uh BAYS",
+    "defEn": "To lower someone in rank, dignity, or self-respect; to humiliate",
+    "defKo": "지위·품위·자존심을 떨어뜨리다; 비하하다",
+    "exEn": "The manager’s insults were meant to abase the intern.",
+    "exKo": "그 관리자의 모욕은 인턴을 비하하려는 의도였다.",
+    "deck": "gre-power-vocab"
+  },
+  "abate": {
+    "word": "abate",
+    "pron": "uh BAYT",
+    "defEn": "To become less intense or widespread; to reduce",
+    "defKo": "강도나 정도가 줄어들다; 완화되다/완화하다",
+    "exEn": "The storm finally began to abate after midnight.",
+    "exKo": "폭풍은 자정이 지나서야 마침내 잦아들기 시작했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abbreviate": {
+    "word": "abbreviate",
+    "pron": "uh BREE vee ayt",
+    "defEn": "To shorten a word, phrase, or text",
+    "defKo": "단어·구절·글을 축약하다",
+    "exEn": "We usually abbreviate “information” as “info.”",
+    "exKo": "우리는 보통 “information”을 “info”로 줄여 쓴다.",
+    "deck": "gre-power-vocab"
+  },
+  "abdicate": {
+    "word": "abdicate",
+    "pron": "AB di kayt",
+    "defEn": "To give up a position of power or responsibility, especially a throne",
+    "defKo": "왕위나 권력·책임을 포기하다",
+    "exEn": "The king decided to abdicate in favor of his daughter.",
+    "exKo": "왕은 딸에게 왕위를 물려주기 위해 퇴위하기로 결정했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abduct": {
+    "word": "abduct",
+    "pron": "ab DUHKT",
+    "defEn": "To take someone away illegally by force or deception",
+    "defKo": "불법적으로 강제로 또는 속여 데려가다; 유괴하다",
+    "exEn": "The police launched a search after a child was abducted near the park.",
+    "exKo": "아이가 공원 근처에서 유괴된 후 경찰이 수색을 시작했다.",
+    "deck": "gre-power-vocab"
+  },
+  "aberrant": {
+    "word": "aberrant",
+    "pron": "uh BEH runt",
+    "defEn": "Different from what is normal or expected; abnormal",
+    "defKo": "정상이나 예상에서 벗어난; 비정상적인",
+    "exEn": "The scientist excluded the aberrant data point from the final analysis.",
+    "exKo": "과학자는 최종 분석에서 비정상적인 데이터 값을 제외했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abet": {
+    "word": "abet",
+    "pron": "uh BET",
+    "defEn": "To encourage or help someone do something wrong",
+    "defKo": "잘못된 일을 하도록 부추기거나 돕다",
+    "exEn": "Anyone who abets fraud can be prosecuted.",
+    "exKo": "사기를 부추기거나 돕는 사람은 누구나 기소될 수 있다.",
+    "deck": "gre-power-vocab"
+  },
+  "abhor": {
+    "word": "abhor",
+    "pron": "ab HOR",
+    "defEn": "To hate something very strongly",
+    "defKo": "매우 혐오하다",
+    "exEn": "She abhors cruelty to animals.",
+    "exKo": "그녀는 동물 학대를 매우 혐오한다.",
+    "deck": "gre-power-vocab"
+  },
+  "abject": {
+    "word": "abject",
+    "pron": "AB jekt",
+    "defEn": "Extremely bad, miserable, or hopeless; showing no pride or dignity",
+    "defKo": "비참한, 절망적인; 비굴한",
+    "exEn": "They lived in abject poverty for many years.",
+    "exKo": "그들은 여러 해 동안 극심한 빈곤 속에서 살았다.",
+    "deck": "gre-power-vocab"
+  },
+  "abjure": {
+    "word": "abjure",
+    "pron": "ab JOOR",
+    "defEn": "To formally renounce or reject a belief, claim, or allegiance",
+    "defKo": "신념·주장·충성을 공식적으로 포기하다, 철회하다",
+    "exEn": "He was forced to abjure his political views in public.",
+    "exKo": "그는 공개적으로 자신의 정치적 견해를 철회하도록 강요받았다.",
+    "deck": "gre-power-vocab"
+  },
+  "abolish": {
+    "word": "abolish",
+    "pron": "uh BOL ish",
+    "defEn": "To officially end a law, system, or practice",
+    "defKo": "법, 제도, 관행 등을 공식적으로 폐지하다",
+    "exEn": "The government voted to abolish the outdated regulation.",
+    "exKo": "정부는 낡은 규제를 폐지하기로 표결했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abominate": {
+    "word": "abominate",
+    "pron": "uh BOM uh nayt",
+    "defEn": "To detest something intensely",
+    "defKo": "몹시 혐오하다, 증오하다",
+    "exEn": "He abominates dishonesty in any form.",
+    "exKo": "그는 어떤 형태의 부정직함도 몹시 증오한다.",
+    "deck": "gre-power-vocab"
+  },
+  "aboriginal": {
+    "word": "aboriginal",
+    "pron": "ab uh RIJ uh nul",
+    "defEn": "Relating to the earliest known inhabitants of a region; indigenous",
+    "defKo": "한 지역의 원주민·토착민과 관련된",
+    "exEn": "The museum displayed aboriginal tools and artwork.",
+    "exKo": "박물관은 원주민의 도구와 예술품을 전시했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abortion": {
+    "word": "abortion",
+    "pron": "uh BOR shun",
+    "defEn": "The deliberate ending of a pregnancy",
+    "defKo": "임신을 인위적으로 중단하는 것; 낙태",
+    "exEn": "The debate over abortion laws remains highly controversial.",
+    "exKo": "낙태법을 둘러싼 논쟁은 여전히 매우 논란이 크다.",
+    "deck": "gre-power-vocab"
+  },
+  "abrasive": {
+    "word": "abrasive",
+    "pron": "uh BRAY siv",
+    "defEn": "Capable of scraping or wearing something away; also harsh in manner",
+    "defKo": "마모시키는, 연마용의; 태도·말이 거친",
+    "exEn": "His abrasive comments upset everyone at the meeting.",
+    "exKo": "그의 거친 발언은 회의에 있던 모두를 불쾌하게 했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abridge": {
+    "word": "abridge",
+    "pron": "uh BRIJ",
+    "defEn": "To shorten a text while keeping the essential meaning",
+    "defKo": "핵심 의미를 유지하면서 글을 요약·축약하다",
+    "exEn": "The publisher decided to abridge the novel for young readers.",
+    "exKo": "출판사는 청소년 독자를 위해 그 소설을 축약하기로 했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abrogate": {
+    "word": "abrogate",
+    "pron": "AB ruh gayt",
+    "defEn": "To formally repeal or do away with a law, agreement, or right",
+    "defKo": "법·협정·권리 등을 공식적으로 폐지하다",
+    "exEn": "The regime tried to abrogate the constitution overnight.",
+    "exKo": "그 정권은 하룻밤 사이에 헌법을 폐지하려고 했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abrupt": {
+    "word": "abrupt",
+    "pron": "uh BRUHPT",
+    "defEn": "Sudden and unexpected; also rude or short in speech",
+    "defKo": "갑작스러운; 말투가 퉁명스러운",
+    "exEn": "The car made an abrupt stop at the red light.",
+    "exKo": "그 차는 빨간불에서 갑자기 멈췄다.",
+    "deck": "gre-power-vocab"
+  },
+  "abscission": {
+    "word": "abscission",
+    "pron": "ab SIZH un",
+    "defEn": "The act or process of cutting off or separating, especially a natural shedding in plants",
+    "defKo": "절단·분리의 행위나 과정; 특히 식물의 자연 탈리",
+    "exEn": "Drought can trigger leaf abscission in many trees.",
+    "exKo": "가뭄은 많은 나무에서 잎의 탈리를 유발할 수 있다.",
+    "deck": "gre-power-vocab"
+  },
+  "abscond": {
+    "word": "abscond",
+    "pron": "ab SKOND",
+    "defEn": "To leave quickly and secretly to avoid arrest or punishment",
+    "defKo": "체포나 처벌을 피하려고 몰래 달아나다",
+    "exEn": "The suspect absconded before the trial began.",
+    "exKo": "용의자는 재판이 시작되기 전에 달아났다.",
+    "deck": "gre-power-vocab"
+  },
+  "absolve": {
+    "word": "absolve",
+    "pron": "ab ZOLV",
+    "defEn": "To free someone from blame, guilt, or responsibility",
+    "defKo": "비난·죄책·책임에서 벗어나게 하다; 면제하다",
+    "exEn": "New evidence may absolve him of the crime.",
+    "exKo": "새로운 증거가 그를 그 범죄 혐의에서 벗어나게 할 수 있다.",
+    "deck": "gre-power-vocab"
+  },
+  "abstain": {
+    "word": "abstain",
+    "pron": "ab STAYN",
+    "defEn": "To choose not to do something; to refrain, especially from voting or consuming something",
+    "defKo": "삼가다, 절제하다; 기권하다",
+    "exEn": "Several members abstained from voting on the proposal.",
+    "exKo": "몇몇 구성원은 그 제안에 대한 표결에서 기권했다.",
+    "deck": "gre-power-vocab"
+  },
+  "abstruse": {
+    "word": "abstruse",
+    "pron": "ab STROOS",
+    "defEn": "Difficult to understand because it is complex or obscure",
+    "defKo": "복잡하거나 난해해서 이해하기 어려운",
+    "exEn": "The professor’s lecture on quantum theory was fascinating but abstruse.",
+    "exKo": "양자 이론에 대한 교수의 강의는 흥미로웠지만 난해했다.",
+    "deck": "gre-power-vocab"
+  },
+  "allay": {
+    "word": "allay",
+    "pron": "uh LAY",
+    "defEn": "To reduce or calm fear, worry, or pain",
+    "defKo": "두려움·걱정·고통 등을 가라앉히다, 경감시키다",
+    "exEn": "The doctor’s explanation helped allay my concerns.",
+    "exKo": "의사의 설명은 내 걱정을 덜어 주었다.",
+    "deck": "gre-power-vocab"
+  },
+  "avert": {
+    "word": "avert",
+    "pron": "uh VURT",
+    "defEn": "To prevent something bad from happening; to turn away",
+    "defKo": "나쁜 일을 막다; 시선을 돌리다",
+    "exEn": "Quick action averted a major accident.",
+    "exKo": "신속한 조치가 큰 사고를 막았다.",
+    "deck": "gre-power-vocab"
+  }
+}

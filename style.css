@@ -1,0 +1,405 @@
+:root {
+  --bg: #0f1220;
+  --bg-soft: #171a2e;
+  --card: #1d2138;
+  --card-2: #232845;
+  --text: #e8e9f3;
+  --muted: #9aa0c0;
+  --accent: #7c8cff;
+  --accent-2: #4ad9c4;
+  --line: #2c3155;
+  --radius: 18px;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px calc(14px + env(safe-area-inset-top, 0px));
+  padding-top: max(14px, env(safe-area-inset-top, 0px));
+  background: rgba(15, 18, 32, 0.85);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  font-size: 18px;
+  margin: 0;
+  letter-spacing: 0.3px;
+}
+
+.tabs {
+  display: flex;
+  gap: 6px;
+  background: var(--bg-soft);
+  padding: 4px;
+  border-radius: 999px;
+}
+
+.tab {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 14px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.tab.is-active {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+main {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 18px 16px 60px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.view {
+  display: none;
+}
+.view.is-active {
+  display: block;
+}
+/* Home: center the card vertically in the available space (not glued to top). */
+#view-home.is-active {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+}
+
+/* ---- Flashcard ---- */
+.card-stage {
+  perspective: 1400px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.flashcard {
+  position: relative;
+  width: 100%;
+  height: clamp(360px, 62vh, 560px);
+  cursor: pointer;
+  border-radius: var(--radius);
+  background: linear-gradient(160deg, var(--card), var(--card-2));
+  box-shadow: var(--shadow);
+  border: 1px solid var(--line);
+  padding: 28px 24px;
+  overflow: hidden;
+  animation: pop 0.25s ease;
+}
+
+@keyframes pop {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fc-word {
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+.fc-pron {
+  font-size: 17px;
+  color: var(--accent-2);
+  font-variant: small-caps;
+  letter-spacing: 0.5px;
+}
+
+/* Word + pron: fixed at the top of the card — does NOT move on flip. */
+.fc-head {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  top: 26px;
+  display: grid;
+  gap: 8px;
+}
+
+/* Answer area: fills below the pinned head, scrolls if long, fades in on flip. */
+.fc-reveal {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  top: 116px;
+  bottom: 22px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  display: grid;
+  gap: 12px;
+  align-content: start;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.22s ease;
+}
+.flashcard.flipped .fc-reveal {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.fc-front-hint {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 60%;
+  text-align: center;
+  color: var(--muted);
+  font-size: 14px;
+  opacity: 1;
+  transition: opacity 0.18s ease;
+  pointer-events: none;
+}
+.flashcard.flipped .fc-front-hint {
+  opacity: 0;
+}
+
+.fc-def-en {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.fc-def-ko {
+  font-size: 15px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.fc-ex {
+  background: rgba(124, 140, 255, 0.08);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  padding: 10px 14px;
+  display: grid;
+  gap: 6px;
+}
+.fc-ex-en {
+  font-size: 15px;
+  line-height: 1.5;
+}
+.fc-ex-ko {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.fc-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 2px;
+}
+.chip {
+  font-size: 11px;
+  color: var(--muted);
+  background: var(--bg-soft);
+  border: 1px solid var(--line);
+  padding: 3px 9px;
+  border-radius: 999px;
+}
+.chip.recent {
+  color: var(--accent-2);
+  border-color: rgba(74, 217, 196, 0.4);
+}
+
+.fc-variants {
+  font-size: 13px;
+  color: var(--muted);
+}
+.fc-variants summary {
+  cursor: pointer;
+  color: var(--accent);
+}
+.fc-variants .var {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+/* ---- Controls ---- */
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 18px;
+}
+.ctrl {
+  flex: 1;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 600;
+  padding: 14px;
+  border-radius: 14px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.ctrl:active {
+  transform: scale(0.98);
+}
+.ctrl-primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.hint {
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 16px;
+}
+
+/* ---- Dates ---- */
+.dates-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+.date-pill {
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.date-pill.is-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.date-pill small {
+  color: var(--muted);
+  margin-left: 6px;
+}
+.date-pill.is-active small {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* ---- Grid lists (dates + all) ---- */
+.grid {
+  display: grid;
+  gap: 12px;
+}
+.mini {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 14px 16px;
+}
+.mini-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.mini-word {
+  font-size: 19px;
+  font-weight: 700;
+}
+.mini-pron {
+  font-size: 13px;
+  color: var(--accent-2);
+  font-variant: small-caps;
+}
+.mini-def {
+  margin-top: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.mini-def .ko {
+  color: var(--muted);
+}
+.mini-ex {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+.deck-label {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 16px 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+
+/* A-Z dictionary collapsible rows */
+.az-row {
+  cursor: pointer;
+}
+.az-row .mini-head {
+  justify-content: flex-start;
+}
+.az-caret {
+  margin-left: auto;
+  color: var(--muted);
+  font-size: 16px;
+}
+.az-body {
+  display: none;
+}
+.az-row.open .az-body {
+  display: block;
+  margin-top: 8px;
+}
+
+.search {
+  width: 100%;
+  padding: 13px 16px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  font-size: 15px;
+  margin-bottom: 16px;
+}
+.search::placeholder {
+  color: var(--muted);
+}
+.count {
+  color: var(--muted);
+  font-size: 13px;
+  margin-bottom: 10px;
+}

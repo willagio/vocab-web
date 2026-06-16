@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#0f1220" />
+    <title>Vocabulary</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1 class="brand">📖 Vocab</h1>
+      <nav class="tabs">
+        <button class="tab is-active" data-view="home">홈</button>
+        <button class="tab" data-view="dates">날짜별</button>
+        <button class="tab" data-view="all">사전</button>
+      </nav>
+    </header>
+
+    <main id="app">
+      <!-- HOME: weighted-random flashcard feed -->
+      <section id="view-home" class="view is-active">
+        <div id="card-stage" class="card-stage"></div>
+        <div class="controls">
+          <button id="btn-flip" class="ctrl ctrl-primary">뜻 보기 (Space)</button>
+          <button id="btn-next" class="ctrl">다음 →</button>
+        </div>
+        <p class="hint">
+          최근 등록 단어가 더 자주 나오지만, 오래된 단어도 가끔 등장합니다.
+        </p>
+      </section>
+
+      <!-- DATES: browse by registration date -->
+      <section id="view-dates" class="view">
+        <div id="dates-list" class="dates-list"></div>
+        <div id="dates-cards" class="grid"></div>
+      </section>
+
+      <!-- ALL: A-Z dictionary -->
+      <section id="view-all" class="view">
+        <input
+          id="search"
+          class="search"
+          type="search"
+          placeholder="단어 검색…"
+          autocomplete="off"
+        />
+        <div id="all-list" class="grid"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
